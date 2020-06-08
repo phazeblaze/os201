@@ -4,4 +4,4 @@ My name is Timothy Regana Tarigan. I am currently studying Computer Science in U
 
 * [URLs](URLs/)
 
-- TRT
+-TRT
